@@ -33,20 +33,14 @@
 - **TypeScript**: Static type checking for robust and maintainable code.
 - **Modern Project Structure**: Organized for scalability and maintainability.
 
-### 📸 Screenshots
+### � Live Demo
 
-<!-- Add your screenshots here -->
 <div align="center">
-  <img src="https://via.placeholder.com/800x400?text=Application+Screenshot" alt="App Screenshot" />
+  <a href="https://fastship-template.vercel.app">
+    <h3>Check out the Live Demo</h3>
+  </a>
 </div>
 
-### 🏗️ Architecture (Excalidraw)
-
-<!-- Add your architecture diagram here -->
-<div align="center">
-  <!-- You can export your Excalidraw as an image or use an embed link -->
-  <img src="https://via.placeholder.com/800x400?text=Excalidraw+Architecture+Diagram" alt="Architecture Diagram" />
-</div>
 
 ### 🚀 Getting Started
 
@@ -90,20 +84,14 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - **TypeScript**: Verificación de tipos estática para código robusto y mantenible.
 - **Estructura de Proyecto Moderna**: Organizada para escalabilidad y mantenibilidad.
 
-### 📸 Capturas de Pantalla
+### � Demo en Vivo
 
-<!-- Añade tus capturas de pantalla aquí -->
 <div align="center">
-  <img src="https://via.placeholder.com/800x400?text=Captura+de+la+Aplicación" alt="Captura de Pantalla" />
+  <a href="https://fastship-template.vercel.app">
+    <h3>Ver Demo en Vivo</h3>
+  </a>
 </div>
 
-### 🏗️ Arquitectura (Excalidraw)
-
-<!-- Añade tu diagrama de arquitectura aquí -->
-<div align="center">
-  <!-- Puedes exportar tu Excalidraw como imagen o usar un enlace incrustado -->
-  <img src="https://via.placeholder.com/800x400?text=Diagrama+de+Arquitectura+Excalidraw" alt="Diagrama de Arquitectura" />
-</div>
 
 ### 🚀 Comenzando
 
