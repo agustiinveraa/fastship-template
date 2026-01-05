@@ -36,7 +36,7 @@
 ### 🌟 Live Demo
 
 <div align="center">
-  <a href="https://fastship-template.vercel.app">
+  <a href="https://fastship-template.vercel.app/">
     <h3>Check out the Live Demo</h3>
   </a>
 </div>
@@ -87,7 +87,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ### 🌟 Demo en Vivo
 
 <div align="center">
-  <a href="https://fastship-template.vercel.app">
+  <a href="https://fastship-template.vercel.app/">
     <h3>Ver Demo en Vivo</h3>
   </a>
 </div>
