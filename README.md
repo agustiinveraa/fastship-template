@@ -33,7 +33,7 @@
 - **TypeScript**: Static type checking for robust and maintainable code.
 - **Modern Project Structure**: Organized for scalability and maintainability.
 
-### � Live Demo
+### 🌟 Live Demo
 
 <div align="center">
   <a href="https://fastship-template.vercel.app">
@@ -84,7 +84,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - **TypeScript**: Verificación de tipos estática para código robusto y mantenible.
 - **Estructura de Proyecto Moderna**: Organizada para escalabilidad y mantenibilidad.
 
-### � Demo en Vivo
+### 🌟 Demo en Vivo
 
 <div align="center">
   <a href="https://fastship-template.vercel.app">
