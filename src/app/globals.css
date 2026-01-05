@@ -1,0 +1,75 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+:root {
+  /* Primary Colors */
+  --color-cream: #FAF7F2;
+  --color-cream-dark: #F5F1E8;
+  --color-off-white: #FFFEF9;
+  
+  /* Accent Colors */
+  --color-pastel-orange: #FFEC99;
+  --color-coral: #FFD54F; /* Darker shade for accents/coral */
+  --color-orange-hover: #FFF5CC; /* Lighter shade for hover */
+  --color-orange-muted: #FFD4BF;
+  
+  /* Background Colors */
+  --color-dark-primary: #1A1825;
+  --color-dark-secondary: #24212F;
+  --color-dark-tertiary: #2D2A3A;
+  --color-gradient-start: #1A1825;
+  --color-gradient-end: #2D2548;
+  
+  /* Surface Colors */
+  --color-elevated: #2D2A3A;
+  --color-overlay: #322F40;
+  --color-card: #24212F;
+  
+  /* Text Colors */
+  --color-text-primary: #FFFFFF;
+  --color-text-secondary: #B8B5C8;
+  --color-text-tertiary: #8A8799;
+  --color-text-muted: #605D70;
+  --color-text-on-cream: #1A1825;
+  
+  /* Border Colors */
+  --color-border-subtle: rgba(255, 255, 255, 0.08);
+  --color-border-default: rgba(255, 255, 255, 0.12);
+  --color-border-strong: rgba(255, 255, 255, 0.2);
+  
+  /* Status Colors */
+  --color-success: #6FCF97;
+  --color-warning: #F2C94C;
+  --color-error: #EB5757;
+  --color-info: #56CCF2;
+}
+
+@theme {
+  /* Font Families */
+  --font-sans: var(--font-inter), sans-serif;
+  --font-serif: var(--font-instrument-serif), serif;
+  --font-mono: var(--font-fira-code), monospace;
+
+}
+
+body {
+  background: var(--color-dark-primary);
+  color: var(--color-text-primary);
+  font-family: var(--font-inter), sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom Font Utilities */
+.font-display {
+  font-family: var(--font-instrument-serif), Georgia, serif;
+}
+
+.font-body {
+  font-family: var(--font-inter), system-ui, -apple-system, sans-serif;
+}
+
+.font-code {
+  font-family: var(--font-fira-code), Consolas, monospace;
+}
+
